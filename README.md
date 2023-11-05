@@ -9,7 +9,12 @@
   <h3 align="center"> Assert IFPB </h3>
   <img src="https://d1fdloi71mui9q.cloudfront.net/3tNJc9kYQVKTSNDhqS77_koclYt8UJf3834g9" height="600" width="600"><br>
 </div>
-<div align="center" ><br>
+<div style="display: inline_block" ><br>
     <h3>✅ Objetivo:</h3>
     <p>Construir um projeto que respeite as <a href="">regras de negócio</a> estabelecidas previamente pelo professor Ruan Gomes</p>
+</div>
+<div style="display: inline_block" ><br>
+    <h3>💻 Tecnologias e Ferramentas </h3>
+    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
