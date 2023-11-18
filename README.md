@@ -1,9 +1,9 @@
 <h1 align="center">📡 Projeto Final - Capacitação de IoT (Ciclo 1) </h1>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/filipe-rds/Projeto-Capacitacao-IA-Ciclo-1?color=green"><img>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/filipe-rds/Projeto_Capacitacao_IA_Ciclo_1?color=green">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/filipe-rds/Projeto_Capacitacao_IA_Ciclo_1?color=green">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/filipe-rds/Projeto_Capacitacao_IA_Ciclo_1?color=green">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/filipe-rds/Projeto_Capacitacao_IA_Ciclo_1?color=green"><img>
 </p>
 <div align="center">
   <h3 align="center"> Assert IFPB </h3>
