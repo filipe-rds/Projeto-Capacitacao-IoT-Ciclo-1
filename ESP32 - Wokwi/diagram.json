@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "author": "Filipe da Silva Rodrigues",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 4.7, "left": 177.4, "attrs": {} },
+    {
+      "type": "wokwi-ntc-temperature-sensor",
+      "id": "ntc1",
+      "top": -55.5,
+      "left": 28.3,
+      "rotate": 90,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "esp:GND.2", "ntc1:GND", "black", [ "h0" ] ],
+    [ "esp:VIN", "ntc1:VCC", "red", [ "h0" ] ],
+    [ "esp:D34", "ntc1:OUT", "green", [ "h0" ] ]
+  ],
+  "dependencies": {}
+}
